@@ -85,7 +85,7 @@ I, Ercine (Student ID: 29864), confirm that this is my own individual work. I di
 Repository Name: oracle_pdb_ass_II_29864_NIYONGABO  
 Visibility: PUBLIC  
 
-**Repository Link:** [[insert your actual GitHub URL here]  ](https://github.com/ilisaercine/oracle_pdb_ass_II_29864_NIYONGABO/tree/main)
+**Repository Link:** [[repository link]  ](https://github.com/ilisaercine/oracle_pdb_ass_II_29864_NIYONGABO/tree/main)
 **PDB Name Created:** er_pdb_29864  
 **Issues Encountered:** Yes (minor privilege error – resolved as explained above)
 
