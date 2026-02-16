@@ -65,7 +65,7 @@ Executed SQL Commands (Screenshots as Proof):
    <img width="581" height="187" alt="create pluggable db to delete" src="https://github.com/user-attachments/assets/a18e5a97-ec1a-41f6-9720-4f3aa866c0fe" />
 
 
-##Task 3: Oracle Enterprise Manager (OEM) 
+## Task 3: Oracle Enterprise Manager (OEM) 
 
 I accessed Oracle Enterprise Manager to check the environment and tasks that were done. 
 
@@ -85,7 +85,7 @@ I, Ercine (Student ID: 29864), confirm that this is my own individual work. I di
 Repository Name: oracle_pdb_ass_II_29864_NIYONGABO  
 Visibility: PUBLIC  
 
-**Repository Link:** [insert your actual GitHub URL here]  
+**Repository Link:** [[insert your actual GitHub URL here]  ](https://github.com/ilisaercine/oracle_pdb_ass_II_29864_NIYONGABO/tree/main)
 **PDB Name Created:** er_pdb_29864  
 **Issues Encountered:** Yes (minor privilege error – resolved as explained above)
 
